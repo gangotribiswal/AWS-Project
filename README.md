@@ -1,4 +1,4 @@
-# AWS-Bigdata using Kinesis , Elastic Search and Kibana.
+# Covid Hospital Bed availability using Python (Text Mining), AWS Kinesis(Streaming data transformation), Elastic Search and Kibana.
 
 India is reporting more than 250,000 new COVID-19 cases a day in its worst phase of the pandemic. Hospitals are turning away patients and supplies of oxygen and medication are running short.
 In response, people are bypassing the conventional lines of communication and turning to Twitter to crowdsource help for oxygen cylinders, hospital beds and other requirements.
